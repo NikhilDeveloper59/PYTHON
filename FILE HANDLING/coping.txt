@@ -1,0 +1,4 @@
+Old content of demo.txt file is deleted and i am writing fress content
+Hello Python
+File Handling Example
+i have append this content using 'a' mode and append at end of prevous text
